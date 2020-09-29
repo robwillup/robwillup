@@ -65,7 +65,7 @@ Oh, and of course, I am yet to attain another very interesting characteristic of
 * Linux
 * Windows
 
-## Leaning
+## Learning
 
 And here's a list of things I'm actively learning at this moment:
 
@@ -81,7 +81,7 @@ If I had to name only a few of the things I'm most interested in I would say `Mi
 
 I plan to keep my GitHub profile and repositories up to date. I hope we have a change to work together on some interesting project. Here's how to reach me:
 
-[Email](r.willup@hotmail.com)
+[Email](mailto:r.willup@hotmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/robson-william-45b884170/)
 
