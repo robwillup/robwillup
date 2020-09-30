@@ -2,7 +2,7 @@
 
 **TL;DR**
 
-My name is Robson William and I'm a creative :bulb: software developer also in development myself :hammer:
+My name is Robson William and I'm a creative :bulb: software developer also in *development* myself :hammer:
 
 ---
 
@@ -12,7 +12,7 @@ My name is Robson William and I'm a creative :bulb: software developer also in d
 >
 > -- <cite>J.R.R. Tolkien</cite>
 
-From the LOTR universe, I would consider my software developer profile to resemble the traits of the *Tooks*: Courageous, and eager for new adventures and challenges!
+From the LOTR universe, I would consider my software developer profile to resemble the traits of the *Tooks*: Courageous and eager for new adventures and challenges!
 
 ![intelligence](https://media.giphy.com/media/dgUu3sizWUWFG/giphy.gif)
 
