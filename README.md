@@ -50,7 +50,7 @@ If I had to name only a few of the things I'm most interested in I would say `Mi
 
 ## What the future holds
 
-I plan to keep my GitHub profile and repositories up to date. I hope we have a change to work together on some interesting project. Here's how to reach me:
+I plan to keep my GitHub profile and repositories up to date. I hope we have a chance to work together on some interesting project. Here's how to reach me:
 
 [Email](mailto:r.willup@hotmail.com)
 
