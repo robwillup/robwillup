@@ -4,6 +4,8 @@
 
 My name is Robson William and I'm a creative :bulb: software developer also in *development* myself :hammer:
 
+![](https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/github_readme_sm.png)
+
 ---
 
 ## More of a Took than a Baggins
