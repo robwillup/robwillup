@@ -1,12 +1,29 @@
-## What's up? :grin:
+<h1 align='center'>
+  What's up, devs? :grin:
+</h1>
 
-**TL;DR**
+<p align='center'>
+ <b>TL;DR</b>
+ <br/>
+  My name is Robson William and I'm a creative :bulb: software developer also in *development* myself :hammer:
+</p>
 
-My name is Robson William and I'm a creative :bulb: software developer also in *development* myself :hammer:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/github_readme_sm.png">
+</p>
 
-![](https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/github_readme_sm.png)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Robson%20William-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rwillup/)](https://www.linkedin.com/in/rwillup/) [![Medium Badge](http://img.shields.io/badge/-@rwillup-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@rwillup)](https://medium.com/@rwillup) [![GitHub followers](https://img.shields.io/github/followers/rwillup?label=Follow&style=social)](https://github.com/rwillup/?tab=follow)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/rwillup/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UCIb9Xp3m_tI7kz2K7yXqXmw/featured?view_as=subscriber">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@rwillup">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 ---
 
