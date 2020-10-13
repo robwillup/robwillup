@@ -5,11 +5,11 @@
 <p align='center'>
  <b>TL;DR</b>
  <br/>
-  My name is Robson William and I'm a creative :bulb: software developer also in *development* myself :hammer:
+  My name is Robson William and I'm a creative :bulb: software developer also in <i>development</i> myself :hammer:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/github_readme_sm.png">
+  <img width=370 height=220 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/github_readme_sm.png">
 </p>
 
 <p align='center'>
