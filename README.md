@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width=970 height=520 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
+  <img width=930 height=480 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
 </p>
 
 <p align='center'>
