@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/rwillup/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
- <a href="https://www.youtube.com/channel/UCIb9Xp3m_tI7kz2K7yXqXmw/featured?view_as=subscriber">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   <a href="https://medium.com/@rwillup">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
