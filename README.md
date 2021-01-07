@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width=930 height=480 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
+  <img width=930 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
 </p>
 
 <p align='center'>
@@ -58,6 +58,12 @@ I started playing with Golang about a year ago and now I just have to use it whe
 ### Platforms
 
 These are some of  the platforms and tools I've been working with: Azure, AKS, App Service, Azure Functions, CosmosDB, Azure DevOps, App Center, Docker, Linux, Windows.
+
+I am a certified Azure developer:
+
+<p align="center">
+  <img width=300 src="https://github.com/robwillup/Mithrandir/blob/master/assets/images/azure-developer-associate-600x600.png?raw=true">
+</p>
 
 ## Learning
 
