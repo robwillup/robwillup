@@ -62,7 +62,7 @@ These are some of  the platforms and tools I've been working with: Azure, AKS, A
 I am a certified Azure developer:
 
 <p align="center">
-  <img width=300 src="https://github.com/robwillup/Mithrandir/blob/master/assets/images/azure-developer-associate-600x600.png?raw=true">
+  <img width=300 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
 </p>
 
 ## Learning
