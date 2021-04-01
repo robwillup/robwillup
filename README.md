@@ -69,7 +69,6 @@ I am a certified Azure developer:
 
 And here's a list of things I'm actively learning at this moment:
 
-* Rust
 * Elixir
 * Kubernetes
 
