@@ -49,7 +49,7 @@ Ok, enough tales for now, here's the list of my current skills (stuff I'm confid
 
  **.NET**
  
-I'm doing .NET since college and I just love it more and more. Specially after ... of course, **.NET Core**!!! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
+I'm learning and working with .NET since college and I just love it more and more. Specially after ... of course, **.NET Core**!!! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
   
  **Go**
 
@@ -62,7 +62,7 @@ These are some of  the platforms and tools I've been working with: Azure, AKS, A
 I am a certified Azure developer:
 
 <p align="center">
-  <img width=300 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
+  <img width=200 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
 </p>
 
 ## Learning
@@ -75,9 +75,3 @@ And here's a list of things I'm actively learning at this moment:
 ## Interests 
 
 If I had to name only a few of the things I'm most interested in I would say `Microservices,`, `gRPC`, `IoT`, and `Machine Learning`. 
-
-## What the future holds
-
-I plan to keep my GitHub profile and repositories up to date. I hope we have a chance to work together on some interesting project.
-
-See you!
