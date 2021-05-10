@@ -5,7 +5,7 @@
 <p align='center'>
  <b>TL;DR</b>
  <br/>
-  My name is Robson William and I'm a creative :bulb: software developer also in <i>development</i> myself :hammer:
+  My name is Robson William and I'm a creative software developer also in <i>development</i> myself :hammer:
 </p>
 
 <p align="center">
@@ -29,35 +29,35 @@
 
 ---
 
-## More of a Took than a Baggins
+## Who am I?
+
+### More of a Took than a Baggins
 
 > "Tooks were mainly of Fallohide Hobbit stock, and were **more adventurous** than the other Hobbits."
 >
 > -- <cite>J.R.R. Tolkien</cite>
 
-From the LOTR universe, I would consider my software developer profile to resemble the traits of the *Tooks*: Courageous and eager for new adventures and challenges!
+From the LOTR universe, I would consider my software developer profile to resemble the traits of the *Tooks*: Eager for new adventures and challenges!
 
 ![intelligence](https://media.giphy.com/media/dgUu3sizWUWFG/giphy.gif)
 
-:grin::grin:
-
 ## Skills
 
-Ok, enough tales for now, here's the list of my current skills (stuff I'm confident I can do well):
+Here's the list of my current skills:
 
 ### Languages
 
  **.NET**
  
-I'm learning and working with .NET since college and I just love it more and more. Specially after ... of course, **.NET Core**!!! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
+I'm learning and working with .NET since college and I just enjoy it more and more. Specially after ... of course, **.NET Core**! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
   
  **Go**
 
-I started playing with Golang about a year ago and now I just have to use it wherever I *go*! (yeah, sorry, couldn't help it). Some of the applications and projects I've created include: CLI apps, web APIs, unit tests, CI/CD tooling.
+I started playing with Golang about two years ago and now I am always trying to find new opportunities to use it. Some of the applications and projects I've created include: CLI apps, web APIs, unit tests, CI/CD tooling.
 
 ### Platforms
 
-These are some of  the platforms and tools I've been working with: Azure, AKS, App Service, Azure Functions, CosmosDB, Azure DevOps, App Center, Docker, Linux, Windows.
+These are some of the platforms and tools I've been working with: Azure, AKS, App Service, Azure Functions, CosmosDB, Azure DevOps, App Center, Docker, Linux, Windows.
 
 I am a certified Azure developer:
 
