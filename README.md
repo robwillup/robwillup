@@ -1,5 +1,5 @@
 <h1 align='center'>
-  What's up, devs? :grin:
+  What's up, devs? 👋
 </h1>
 
 <p align='center'>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width=930 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
+  <img width=750 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
 </p>
 
 <p align='center'>
