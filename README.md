@@ -67,9 +67,9 @@ I am a certified Azure developer:
 
 ## Learning
 
-And here's a few other things I don't use for work but like to learn and use in personal projects:
+And here's a few other things I don't use for work but like to learn and use in personal projects as possible:
 
 * Elixir
-* Rx.NET
 * Rust
 * C
+* IoT
