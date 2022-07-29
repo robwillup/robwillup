@@ -49,7 +49,7 @@ Here's the list of my current skills:
 
  **.NET**
  
-I'm learning and working with .NET since college and I just enjoy it more and more. Specially after ... of course, **.NET Core**! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
+I've been learning and working with .NET for more than 6 years and I just enjoy it more every year. Specially after ... of course, **.NET Core**! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
   
  **Go**
 
@@ -67,11 +67,9 @@ I am a certified Azure developer:
 
 ## Learning
 
-And here's a list of things I'm actively learning at this moment:
+And here's a few other things I don't use for work but like to learn and use in personal projects:
 
 * Elixir
-* Kubernetes
-
-## Interests 
-
-If I had to name only a few of the things I'm most interested in I would say `Microservices,`, `gRPC`, `IoT`, and `Machine Learning`. 
+* Rx.NET
+* Rust
+* C
