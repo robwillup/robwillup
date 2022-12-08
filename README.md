@@ -1,11 +1,11 @@
 <h1 align='center'>
-  What's up, devs? 👋
+  Hi there, I'm Rob 👋
 </h1>
 
 <p align='center'>
  <b>TL;DR</b>
  <br/>
-  My name is Robson William and I'm a creative software developer also in <i>development</i> myself :hammer:
+  My name is Robson William and I'm a software developer also in <i>development</i> myself :hammer:
 </p>
 
 <p align="center">
@@ -28,18 +28,6 @@
 </p>
 
 ---
-
-## Who am I?
-
-### More of a Took than a Baggins
-
-> "Tooks were mainly of Fallohide Hobbit stock, and were **more adventurous** than the other Hobbits."
->
-> -- <cite>J.R.R. Tolkien</cite>
-
-From the LOTR universe, I would consider my software developer profile to resemble the traits of the *Tooks*: Eager for new adventures and challenges!
-
-![intelligence](https://media.giphy.com/media/dgUu3sizWUWFG/giphy.gif)
 
 ## Skills
 
