@@ -53,6 +53,8 @@ I am a certified Azure developer:
   <img width=200 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
 </p>
 
+At work I have also contributed to projects in different programming languages and frameworks, such as JavaScript, TypeScript, AngularJS, Angular, Node.js, Java, Spring Boot, and a little bit of Python and C++. As for databases, I have mainly worked with Microsoft SQL Server, Oracle, PostgresSQL, Cosmos DB / MongoDB.
+
 ## Learning
 
 And here's a few other things I don't use for work but like to learn and use in personal projects as possible:
