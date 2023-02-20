@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width=750 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/assets/images/banner.png">
+  <img width=750 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/docs/assets/images/banner.png">
 </p>
 
 <p align='center'>
@@ -17,14 +17,14 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!--<a href="https://www.youtube.com/channel/UCIb9Xp3m_tI7kz2K7yXqXmw">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;-->
   <a href="https://twitter.com/@robwillup">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@robwillup">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -36,9 +36,9 @@ Here's the list of my current skills:
 ### Languages
 
  **.NET**
- 
+
 I've been learning and working with .NET for more than 6 years and I just enjoy it more every year. Specially after ... of course, **.NET Core**! I have been writing all sorts of apps with .NET including, but not limited to: ASP.NET Core web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC, xUnit.
-  
+
  **Go**
 
 I started playing with Golang about two years ago and now I am always trying to find new opportunities to use it. Some of the applications and projects I've created include: CLI apps, web APIs, unit tests, CI/CD tooling.
@@ -50,7 +50,7 @@ These are some of the platforms and tools I've been working with: Azure, AKS, Ap
 I am a certified Azure developer:
 
 <p align="center">
-  <img width=200 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
+  <img width=200 src="https://github.com/robwillup/Mithrandir/blob/main/docs/assets/images/azure-developer-associate-600x600.png?raw=true">
 </p>
 
 At work I have also contributed to projects in different programming languages and frameworks, such as JavaScript, TypeScript, AngularJS, Angular, Node.js, Java, Spring Boot, and a little bit of Python and C++. As for databases, I have mainly worked with Microsoft SQL Server, Oracle, PostgresSQL, Cosmos DB / MongoDB.
