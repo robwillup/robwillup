@@ -8,26 +8,11 @@
   My name is Robson William and I'm a software developer also in <i>development</i> myself :hammer:
 </p>
 
-<p align="center">
-  <img width=750 src="https://raw.githubusercontent.com/RWillup/Mithrandir/master/docs/assets/images/banner.png">
-</p>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/robwillup/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <!--<a href="https://www.youtube.com/channel/UCIb9Xp3m_tI7kz2K7yXqXmw">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;-->
-  <a href="https://twitter.com/@robwillup">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@robwillup">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;
 </p>
-
----
 
 ## Skills
 
