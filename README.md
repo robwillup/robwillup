@@ -8,12 +8,6 @@
   I'm a software developer also in <i>development</i> myself :hammer:
 </p>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/robwillup/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
 ## Skills
 
 Here's the list of my current skills:
