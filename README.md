@@ -5,7 +5,7 @@
 <p align='center'>
  <b>TL;DR</b>
  <br/>
-  My name is Robson William and I'm a software developer also in <i>development</i> myself :hammer:
+  I'm a software developer also in <i>development</i> myself :hammer:
 </p>
 
 <p align='center'>
