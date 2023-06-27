@@ -2,12 +2,6 @@
   Hi there, I'm Rob 👋
 </h1>
 
-<p align='center'>
- <b>TL;DR</b>
- <br/>
-  I'm a software developer also in <i>development</i> myself :hammer:
-</p>
-
 ## Skills
 
 Here's the list of my current skills:
