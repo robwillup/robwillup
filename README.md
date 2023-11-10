@@ -24,8 +24,7 @@ my soldering station 💥.
 
 ### .NET
 
-I've been learning and working with .NET for more than 6 years and I just enjoy
-it more every year. Specially after ... of course, **.NET Core**! I have been
+I've been learning and working with .NET for more than 6 years and it's amazing to see how this ecosystem keeps evolving and getting better. Specially after **.NET Core**! I have been
 writing all sorts of apps with .NET including ASP.NET Core web APIs and web apps,
 Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC,
 xUnit.
