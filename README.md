@@ -24,16 +24,18 @@ my soldering station 💥.
 
 ### .NET
 
-I've been learning and working with .NET for more than 6 years and it's amazing to see how this ecosystem keeps evolving and getting better. Specially after **.NET Core**! I have been
-writing all sorts of apps with .NET including ASP.NET Core web APIs and web apps,
-Blazor, Desktop WPF and Windows Forms, Console and CLI apps, Worker Service, gRPC,
-xUnit.
+I've been learning and working with .NET for more than 6 years and it's amazing
+to see how this ecosystem keeps evolving and getting better. Specially after
+.NET Core! I have been writing all sorts of apps with .NET including ASP.NET Core
+web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps,
+Worker Service, gRPC, xUnit.
 
 ### Go
 
-I started playing with Golang about two years ago and now I am always trying to find
-new opportunities to use it. Some of the applications and projects I've created
-include: CLI apps, web APIs, unit tests, CI/CD tooling.
+I started working with Golang about 4 years ago and I am always trying to find
+new opportunities to use it, like in my most recent project [RoSy](https://github.com/robwillup/rosy).
+Some of the applications and projects I've created include: CLI apps, web APIs,
+unit tests, CI/CD tooling.
 
 ### Azure
 
@@ -47,11 +49,11 @@ I am a certified Azure developer:
 </p>
 
 At work I have also contributed to projects in different programming languages and
-frameworks, such as JavaScript, TypeScript, AngularJS, Angular, Node.js, Java, Spring
-Boot, and a little bit of Python and C++. As for databases, I have mainly worked
-with Microsoft SQL Server, Oracle, PostgresSQL, Cosmos DB / MongoDB.
+frameworks, such as JavaScript, TypeScript, AngularJS, Angular, Node.js, Java.
+As for databases, I have mainly worked with Microsoft SQL Server, Oracle,
+PostgresSQL, Cosmos DB / MongoDB.
 
-### Other topics
+### Other Interests
 
 And here's a few other things I don't use for work but like to learn and use in
 personal projects:
