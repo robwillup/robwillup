@@ -33,7 +33,7 @@ Worker Service, gRPC, xUnit.
 ### Go
 
 I started working with Golang about 4 years ago and I am always trying to find
-new opportunities to use it, like in my most recent project [RoSy](https://github.com/robwillup/rosy).
+new opportunities to use it, like in my most recent project [RetroS](https://github.com/robwillup/retros).
 Some of the applications and projects I've created include: CLI apps, web APIs,
 unit tests, CI/CD tooling.
 
