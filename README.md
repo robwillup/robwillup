@@ -6,10 +6,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/robwillup/mithrandir/main/assets/images/banner_dark_small.png">
-</div>
-
 <br />
 
 <h1 align='center'>
