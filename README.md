@@ -12,11 +12,9 @@
   Hi there 👋
 </h1>
 
-I'm a software engineer 🧑🏻‍💻 who specializes in backend and desktop
-development 🚀.
+Most of the time I'm working with backend or desktop applications, but often I'll be involved in the development of other app types  🚀.
 
-I also enjoy working with hardware projects 🤖 involving Raspberry Pi, Arduino and
-my soldering station 💥.
+I also enjoy working with hardware projects involving Raspberry Pi, Arduino and a soldering station 💥.
 
 ### .NET
 
@@ -38,12 +36,6 @@ unit tests, CI/CD tooling.
 These are some of the platforms and tools I've been working with: Azure, AKS, App
 Service, Azure Functions, CosmosDB, Azure DevOps, App Center, Docker, Linux, Windows.
 
-I am a certified Azure developer:
-
-<p align="center">
-  <img width=200 src="https://github.com/robwillup/Mithrandir/blob/main/assets/images/azure-developer-associate-600x600.png?raw=true">
-</p>
-
 At work I have also contributed to projects in different programming languages and
 frameworks, such as JavaScript, TypeScript, AngularJS, Angular, Node.js, Java.
 As for databases, I have mainly worked with Microsoft SQL Server, Oracle,
@@ -51,7 +43,7 @@ PostgresSQL, Cosmos DB / MongoDB.
 
 ### Other Interests
 
-And here's a few other things I don't use for work but like to learn and use in
+And here's a few other things I haven't used for work yet but like to learn and use in
 personal projects:
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
