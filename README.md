@@ -9,27 +9,20 @@
 <br />
 
 <h1 align='center'>
-  Hi there 👋
+  Hello 👋
 </h1>
 
-Most of the time I'm working with backend or desktop applications, but often I'll be involved in the development of other app types  🚀.
-
-I also enjoy working with hardware projects involving Raspberry Pi, Arduino and a soldering station 💥.
+I'm working with backend and desktop applications, and sometimes with some frontend and mobile apps.
 
 ### .NET
 
-I've been learning and working with .NET for more than 6 years and it's amazing
-to see how this ecosystem keeps evolving and getting better. Specially after
-.NET Core! I have been writing all sorts of apps with .NET including ASP.NET Core
+I've been learning and working with .NET for more than 6 years. I have been writing all sorts of apps with .NET including ASP.NET Core
 web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps,
 Worker Service, gRPC, xUnit.
 
 ### Go
 
-I started working with Golang about 4 years ago and I am always trying to find
-new opportunities to use it, like in my most recent project [RetroS](https://github.com/robwillup/retros).
-Some of the applications and projects I've created include: CLI apps, web APIs,
-unit tests, CI/CD tooling.
+I have worked with Go for about 2 years.
 
 ### Azure
 
