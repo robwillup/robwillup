@@ -12,11 +12,11 @@
   Hello 👋
 </h1>
 
-I'm working with backend and desktop applications, and sometimes with some frontend and mobile apps.
+I'm working with backend, desktop, frontend and mobile apps.
 
 ### .NET
 
-I've been learning and working with .NET for more than 6 years. I have been writing all sorts of apps with .NET including ASP.NET Core
+I've been learning and working with .NET for more than 7 years. I have been writing all sorts of apps with .NET including ASP.NET Core
 web APIs and web apps, Blazor, Desktop WPF and Windows Forms, Console and CLI apps,
 Worker Service, gRPC, xUnit.
 
