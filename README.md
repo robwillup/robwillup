@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -10,11 +10,11 @@
 
 <br />
 
-<h1 align='center'>
+<h1 align="center">
   Hi there!👋
 </h1>
 
-<h3 align='center'>Welcome to my GitHub profile. I'm Robson</h3>
+<h3 align="center">Welcome to my GitHub profile. I'm Robson</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/robwillup/robwillup/refs/heads/master/img/crt_effect.jpg" width="200px" alt="Profile picture" />
@@ -62,7 +62,7 @@ PostgresSQL, MySql, and Cosmos DB / MongoDB.
 And here's a few other things I haven't used for work yet but like to learn and use in
 personal projects:
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry PI"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
