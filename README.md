@@ -16,12 +16,9 @@
 
 <h3 align='center'>Welcome to my GitHub profile. I'm Robson</h3>
 
-<img
-  src="https://raw.githubusercontent.com/robwillup/robwillup/refs/heads/master/img/crt_effect.jpg"
-  style="display:block; margin-left:auto; margin-right:auto;"
-  width="200px"
-  alt="Profile picture"
-/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robwillup/robwillup/refs/heads/master/img/crt_effect.jpg" width="200px" alt="Profile picture" />
+</p>
 
 I'm a software developer working with backend, desktop, frontend and mobile apps.
 
