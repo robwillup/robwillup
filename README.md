@@ -9,8 +9,12 @@
 <br />
 
 <h1 align='center'>
-  Hello 👋
+  Hi there!👋
 </h1>
+
+<h3 align='center'>Welcome to my GitHub profile. I'm Robson</h3>
+
+<img src="./img/crt_effect.jpg" style="display:block; margin-left:auto; margin-right:auto;" />
 
 I'm working with backend, desktop, frontend and mobile apps.
 
